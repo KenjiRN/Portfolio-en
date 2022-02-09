@@ -171,7 +171,8 @@ thead tr {
 }
 
 tbody {
-	color: #a9a9a9;
+	color: #fdf4f4;
+	/* color: #a9a9a9; */
 	font-size: 1.5em;
 	line-height: 1em;
 	text-shadow: -1px -1px 0px #000, -1px -1px 0px #000;

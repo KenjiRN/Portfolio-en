@@ -8,7 +8,9 @@ body {
 	padding: 5em;
 	box-sizing: border-box;
 }
-.kkk{
+
+
+td > a{
 	color: #fff;
 	text-decoration: none;
 }
@@ -143,7 +145,7 @@ table.hours {
 	transform: rotate(-2deg);
 	padding-left: 4.5em;
 	border-radius: 49%;
-	background: #bebcbc;
+	background: #041e42;
 	text-align: center;
 	top: -10em;
 	position: relative;

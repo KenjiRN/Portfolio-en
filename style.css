@@ -130,7 +130,7 @@ address a {
 
 svg {
 	padding: 0.25em;
-	background: #0067ff;
+	background: #ff9100;
 	border-radius: 100% 100% 0 100%;
 	transform: rotate(-10deg) translateY(-0.35em);
 	border: 3px solid #fff;

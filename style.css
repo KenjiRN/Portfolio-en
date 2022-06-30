@@ -17,7 +17,7 @@ td > a{
 body:before,
 body:after {
 	content: "";
-	background: url(2157.png)
+	background: url(2147.jpg)
 		no-repeat center 32%;
 	background-size: cover;
 	width: 100vw;
@@ -374,7 +374,7 @@ p.tip:before {
 @media only screen and (max-width: 767px) {
 	body {
 		padding: 0em;
-		background-color: rgb(109, 107, 106);
+		background-image: url('2147.jpg');
 	
 
 	

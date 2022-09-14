@@ -8,9 +8,18 @@ body {
 	padding: 5em;
 	box-sizing: border-box;
 }
-
+.person{
+	padding-right: 28px;
+	
+	text-align:justify;
+	color: #0067ff;
+}
 
 td > a{
+	color: #fff;
+	text-decoration: none;
+}
+a{
 	color: #fff;
 	text-decoration: none;
 }
